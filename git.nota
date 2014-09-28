@@ -20,3 +20,25 @@ Creation-Date: 2014-05-17T07:41:56+02:00
 	
 	
 
+(cd /tmp && git clone --depth 1
+echo miedaf >> .gitignore   
+git add .    
+git blam Readme.md    
+git blame Re.eninternet.es    
+git blame Readme.md    
+git branch experimenting    
+git checkout -b experimenting   
+git checkout -b master   
+git checkout experimenting    
+git checkout maste    
+git co -b experimenting   
+git config core.autocrlf    
+git destroy .    
+git init     
+git push -u ghub master  
+git reflog     
+git remote set-url ghub git@github.com:lopezzp/notas.git  
+git remove .    
+git reset .    
+git show     
+git status     
