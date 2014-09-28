@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-05-19T10:09:22+02:00
+
+====== GIT ======
+
+
+10 Most used commands for everyday quick brown fox → 
+
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-05-17T07:41:56+02:00
+
+====== Configlets ======
+
+
+	===== GIT  =====
+	
+	git config core.autocrlf false
+	
+	
+
